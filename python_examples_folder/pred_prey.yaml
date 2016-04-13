@@ -1,0 +1,13 @@
+time_variables:
+  time_start: 0.0
+  time_end: 1000.
+  delta_t: 2.734e-3
+initial_values:
+  pred_initial: 1.
+  prey_initial: 10.
+user_values:
+  a: 1.
+  b: 1.
+  c: 1.
+  d: 1.
+  K: 20.
